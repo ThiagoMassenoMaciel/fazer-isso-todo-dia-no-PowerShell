@@ -12,12 +12,12 @@ npm start
 // para saber qual politica esta ativa
 Get-ExecutionPolicy
 ```
-````
+```
 //Mudar para poder executar o script do react
 Set-ExecutionPolicy RemoteSigned
 ```
 
-````
+```
 //Mudar para não poder executar o script do react VOLTAR O QUE ERA ANTES
 Set-ExecutionPolicy Restricted
 ```
